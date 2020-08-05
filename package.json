@@ -20,6 +20,7 @@
   "homepage": "https://github.com/parissak/Fullstack20_palautukset_osa3#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.9.27",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
